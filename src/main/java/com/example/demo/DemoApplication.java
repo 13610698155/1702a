@@ -8,6 +8,10 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class DemoApplication {
 
+    /**
+     *
+     * 启动类
+     */
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
